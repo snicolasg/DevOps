@@ -1,0 +1,13 @@
+a
+b
+c
+d
+1
+2
+3
+4
+----- Texto entre texto1.txt y texto2.txt -----
+1
+2
+3
+4

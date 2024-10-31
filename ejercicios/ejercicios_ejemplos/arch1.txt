@@ -1,0 +1,4 @@
+Ejercicio 2: Usuarios distintos conectados
+Modifica el script del ejercicio anterior para contar solo usuarios distintos que están conectados (aunque tengan múltiples sesiones abiertas).
+
+sdfsdfsdf 

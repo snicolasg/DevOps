@@ -1,0 +1,4 @@
+Gonzalo	Puga	Sabio	1982	Granada
+Julio	Gomez	Lopez	1975	Murcia
+Jose	Perez	Perez	1958	Almeria
+Magdalena	Fernandez	Fernandez	1980	Sevilla

@@ -1,0 +1,11 @@
+total 1140408
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Descargas
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Documentos
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Escritorio
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Imágenes
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Música
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Plantillas
+-rw-r--r--. 1 sysadmin sysadmin          0 ago 21 01:13 prueba.txt
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Público
+-rw-r--r--. 1 sysadmin sysadmin 1167776746 ago 20 21:53 pycharm-professional-2024.2.tar.gz
+drwxr-xr-x. 2 sysadmin sysadmin          6 ago 20 21:49 Vídeos
